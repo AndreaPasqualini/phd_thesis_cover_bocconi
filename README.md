@@ -6,7 +6,7 @@ This repo contains simple LaTeX code to create a title page that suits the requi
 
 The University offers a Microsoft Word template, together with other typographic instructions at their [dedicated webpage](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/info+for+current+students/phd+thesis+instructions+and+deadlines+ecofin).
 However, I work with [LaTeX](https://www.latex-project.org/) and I need to code up the title page from scratch.
-So I put this here in the hope that it can be useful to somebody.
+So I put this here in the hope that it can be useful to somebody else.
 
 
 ## Usage
