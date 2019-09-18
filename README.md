@@ -29,7 +29,7 @@ in your LaTeX root file, otherwise you will have both the title page and the usu
 The file `coverpage.tex` is a template.
 Information displayed in typewriter style (`\texttt`) surrounded in square brackets must be filled in by the user.
 
-To give an understanding of how to fill in the information, I provide an example with my own data.
+To give an understanding of how to fill in the "blanks," I provide an example with my own data.
 Italicized words are comments.
 
 - `program_name`: Economics and Finance
