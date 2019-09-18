@@ -68,7 +68,7 @@ Then I used [ImageMagick](https://imagemagick.org/index.php) to convert the PDF 
 In summary
 
     pdflatex preview.tex
-    convert -density 300 preview.pdf -quality 100 preview.png
+    convert -density 300 preview.pdf -quality 100 -layers flatten -border 1 -bordercolor Black preview.png
 
 
 ## Licensing
