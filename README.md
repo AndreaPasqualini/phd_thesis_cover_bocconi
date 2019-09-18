@@ -70,6 +70,14 @@ In summary
     pdflatex preview.tex
     convert -density 192 preview.pdf -quality 100 -layers flatten -border 2 -bordercolor black preview.png
 
+where
+
+- `-density 192` set rasterized output to 192 pixels per inch
+- `-quality 100` suppresses any image compression
+- `-layers flatten` prevents white color on PDF from being set to transparent in PNG file
+- `-border 2` sets a 2-pixel frame around the output image
+- `-bordercolor black` sets the frame color to black
+
 
 ## Licensing
 
