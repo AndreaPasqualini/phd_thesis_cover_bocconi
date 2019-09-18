@@ -63,7 +63,7 @@ I set 1.5 cm of vertical space (`\vspace`) between the header and the info on th
 The remaining vertical space is made of elastic space (`\vfill`) so that the content spans the entire vertical space on the page.
 
 Finally, everything is wrapped in the `titlepage` environment.
-This removes the page number from the title page, forces a page break at the end of the environment and resets the [`page` counter](https://en.wikibooks.org/wiki/LaTeX/Counters#LaTeX_default_counters) so that it starts from one on the next page (if any).
+This removes the page number from the title page, forces a page break at the end of the environment and resets the [`page` counter](https://en.wikibooks.org/wiki/LaTeX/Counters#LaTeX_default_counters) so that it starts from 1 on the next page (if any).
 
 
 ## Generating preview files
