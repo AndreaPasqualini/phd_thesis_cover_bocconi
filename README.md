@@ -46,6 +46,8 @@ Italicized words are comments.
 ## Implementation details
 
 The Word file Bocconi offers consists of a single A4 page with left and right margins set to 2 cm and top and bottom margins set to 1 cm.
+These margins are not set in `coverpage.tex` and are left for definition somewhere else in the TeX root file the user has.
+
 There are three font sizes: 14 pts as default size, 16 pts for the page header and 22 pts for the thesis title.
 The following table shows how I matched the font sizes in Word to font sizes in LaTeX.
 The third column assumes that the `\normalsize` set in LaTeX is 11 pts.
