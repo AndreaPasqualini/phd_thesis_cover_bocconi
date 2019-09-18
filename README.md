@@ -58,7 +58,7 @@ The third column assumes that the `\normalsize` set in LaTeX is 11 pts.
 
 I eyeballed the vertical space in the Word file.
 In LaTeX, I set 1.5 cm of vertical space (`\vspace`) between the header and the info on the PhD program and between the info on advisors and info on the graduating student.
-The remaining vertical space is made of elastic space (`\vfill`) so that the content of the page spans the entire vertical space on the page.
+The remaining vertical space is made of elastic space (`\vfill`) so that the content spans the entire vertical space on the page.
 
 
 ## Generating preview files
