@@ -1,6 +1,6 @@
 # Title Page for PhD Thesis at Bocconi University
 
-This repo contains simple LaTeX code to create a title page that suits the requirements of the PhD School at Bocconi University.
+This repo contains a simple LaTeX source to create a title page that suits the requirements of the PhD School at Bocconi University.
 
 ![Preview](./preview/preview.png)
 
@@ -11,7 +11,7 @@ So I put this here in the hope that it can be useful to somebody.
 
 ## Usage
 
-The file `coverpage.tex` is intended for use with the `\input` command in LaTeX.
+The file `coverpage.tex` is intended for with with the `\input` command in LaTeX.
 This corresponds to copy-pasting the code into the `.tex` file you compile.
 Note that the line
 
@@ -27,13 +27,13 @@ in your LaTeX root file, otherwise you will have both the title page and the usu
 ## Blank spaces (to be filled in)
 
 The file `coverpage.tex` is a template.
-Information displayed in typewriter style (`\texttt`) surrounded in square brackets must be filled in by the user.
+Information displayed in typwriter style (`\texttt`) surrounded in square brackets must be filled in by the user.
 
 To give an understanding of how to fill in the information, I provide an example with my own data.
 Italicized words are comments.
 
 - `program_name`: Economics and Finance
-- `cycle`: 31<sup>st</sup> _(as I enrolled in a.y. 2015/2016)_
+- `cycle`: 31<sup>st</sup> _(because I enrolled in a.y. 2015/2016)_
 - `disc_code`: _I don't know yet_
 - `adv_name` and `adv_surname`: Basile Grassi
 - `coa_name` and `coa_surname`: _none in my case_
