@@ -60,6 +60,9 @@ I eyeballed the vertical space in the Word file.
 In LaTeX, I set 1.5 cm of vertical space (`\vspace`) between the header and the info on the PhD program and between the info on advisors and info on the graduating student.
 The remaining vertical space is made of elastic space (`\vfill`) so that the content spans the entire vertical space on the page.
 
+Finally, everything is wrapped in the `titlepage` environment.
+This removes the page number from the title page and numbers any following pages starting from one.
+
 
 ## Generating preview files
 
