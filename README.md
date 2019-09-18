@@ -84,6 +84,12 @@ where
 - `-bordercolor black` sets the frame color to black
 
 
+## Disclaimer
+
+This repository is in no way endorsed by Bocconi University.
+Adequacy of the LaTeX source to Bocconi's standards is not guaranteed.
+
+
 ## Licensing
 
 This code is released under the [_Do What The Fuck You Want To Public License_ (WTFPL)](https://choosealicense.com/licenses/wtfpl/).
