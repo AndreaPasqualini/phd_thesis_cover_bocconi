@@ -11,7 +11,7 @@ So I put this here in the hope that it can be useful to somebody else.
 
 ## Usage
 
-The file `coverpage.tex` is intended for use with the `\input` command in LaTeX.
+The file [`coverpage.tex`](./coverpage.tex) is intended for use with the `\input` command in LaTeX.
 This corresponds to copy-pasting the code into the `.tex` file you compile.
 Note that **the command `\input{coverpage}` substitutes the command `\maketitle` in your LaTeX root file**, otherwise you will have both the title page and the usual title (which depends on the document class you use).
 
