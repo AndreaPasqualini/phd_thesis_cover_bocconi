@@ -26,7 +26,7 @@ Italicized words are comments.
 
 - `program_name`: Economics and Finance
 - `cycle`: 31<sup>st</sup> _(as I enrolled in a.y. 2015/2016)_
-- `disc_code`: _I don't know yet_
+- `disc_code`: SECS-P/01 _(one from the set of ["settori scientifico-discplinari"](https://it.wikipedia.org/wiki/Settore_scientifico-disciplinare))_
 - `adv_name` and `adv_surname`: Basile Grassi
 - `coa_name` and `coa_surname`: _none in my case_
 - `stu_name` and `stu_surname`: Andrea Pasqualini
